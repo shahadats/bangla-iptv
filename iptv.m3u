@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png",ATN Bangla
-http://bdiptv.net:8080/ATNBangla/tracks-v1a1/mono.m3u8?token=e837c0ecd2fd40a8ac024310fb52d32f15f16fe2-f5df9af35f9842589936263e5f3cc96f-1629050874-1629040074
+http://bdiptv.net:8080/ATNBangla/tracks-v1a1/mono.m3u8?token=50afac403aecf6a8d3120df46cc6c80b9e75dfa4-826b78ebc384bbb9ba55e54d35ab995c-1629052228-1629041428
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png",ATN News
 http://bdiptv.net:8080/ATNNews/tracks-v1a1/mono.m3u8?token=ad90275e8c90c9d538ba0cf3044d5d3bf2c58c91-dccb8dca6705845fd340a8bed5e353db-1629037499-1629026699
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="Music",ATN Music
@@ -27,7 +27,7 @@ http://bdiptv.net:8080/IndependentTV/tracks-v1a1/mono.m3u8?token=b9c7af5f632fd50
 http://bdiptv.net:8080/NagorikTV/tracks-v1a1/mono.m3u8?token=05742ad7287da6adec01420cfc502fdb0848a7d7-1bdcccde704456429d5d8e64ffd55acb-1629044887-1629034087
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg",Mohona TV
 http://bdiptv.net:8080/MohonaTV/tracks-v1a1/mono.m3u8?token=9350baa9d7b374db4c32aa61e45753de50541928-8d010c005383ba06b2fae89dbf4f5fdd-1629044979-1629034179
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://bdyellowpages.net/upload/4230290_logo_for_news_12741678,192x192,r-1.jpg",MY TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="",MY TV
 http://bdiptv.net:8080/MyTV/tracks-v1a1/mono.m3u8?token=4fd6551183f4b0d022844784752ae2dbd441a0e4-d182156e1356c9e29dbc6b022331bbcc-1629045183-1629034383
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://biz-file.com/c/2006/561580.jpg",NEWS 24
 http://bdiptv.net:8080/News24/tracks-v1a1/mono.m3u8?token=bab5c5706d2d62c69c5d0a1dad975a24d0385e13-471dc70674c5358527acd8841adb47e3-1629045260-1629034460
