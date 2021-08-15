@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png",ATN Bangla
+http://bdiptv.net:8080/ATNBangla/tracks-v1a1/mono.m3u8?token=e837c0ecd2fd40a8ac024310fb52d32f15f16fe2-f5df9af35f9842589936263e5f3cc96f-1629050874-1629040074
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png",ATN News
+http://bdiptv.net:8080/ATNNews/tracks-v1a1/mono.m3u8?token=ad90275e8c90c9d538ba0cf3044d5d3bf2c58c91-dccb8dca6705845fd340a8bed5e353db-1629037499-1629026699
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="Music",ATN Music
+http://bdiptv.net:8080/ATNMusic/tracks-v1a1/mono.m3u8?token=e14ad3b0039d83ca9c4d066512571791c4bdbe2b-61a949d6d2b0a18c096858aeb70a8415-1629037677-1629026877
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/DJcpP2t4Mdp.png",ATN Islamic TV
+http://bdiptv.net:8080/ATNIslamic/tracks-v1a1/mono.m3u8?token=7642bd34cd6f02354b10a62a73c2b9fa5053984f-8f8aa6e150fc7be5e4b5c3e2041fb751-1629038379-1629027579
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png",Boishakhi
+http://bdiptv.net:8080/BoishakhiTV/tracks-v1a1/mono.m3u8?token=dc09b7ea26bc42430b615c265af82a464920644b-5d13b48d0eca00e19659012c35336895-1629038442-1629027642
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png",Banglavision
+http://bdiptv.net:8080/BanglaVision/tracks-v1a1/mono.m3u8?token=50674ec7c70ce1e32fa5f6d49cba96a8616933a8-9627967f4af3d1ceec789f17aba11eac-1629038554-1629027754
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://tv.bdixsports.com/uploads/tv_image/sm/channel-24.jpg",Channel 24
+http://bdiptv.net:8080/Channel24/tracks-v1a1/mono.m3u8?token=d95e842549605a8590e639513ee6acf198c496e1-c2c86ee9477b26892135f8499ffb67d1-1629038623-1629027823
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://cdna.artstation.com/p/assets/images/images/002/024/026/large/dbc-news-live-24-7-pre-11.jpg",DBC NEWS
+http://bdiptv.net:8080/DBCNews/tracks-v1a1/mono.m3u8?token=393a7b04180d02bdb43ec4c66b5afb96da3ff459-9c344517b65a41a2d058024285703f1b-1629038940-1629028140
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://en.wikipedia.org/wiki/File:Ekattor_TV_logo.png",Ekattor
+http://bdiptv.net:8080/EkattorTV/tracks-v1a1/mono.m3u8?token=a17ece4f1b0c147daf574099241350943dae9ed1-883e9d39deec427d24beb1383473ffe6-1629041684-1629030884
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/ekusheytv.jpg",ETV
+http://bdiptv.net:8080/EkusheyTv/tracks-v1a1/mono.m3u8?token=b1799679c0bec2e68495320171c9a7e334fe1624-e645f7d55c5466385b22bc401fdb8380-1629041839-1629031039
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i2.wp.com/pakistandth.com/wp-content/uploads/2019/07/Gazi-TV-Frequency.jpg",GAZI TV
+http://bdiptv.net:8080/GaziTV/tracks-v1a1/mono.m3u8?token=495f30dde110980e0c0ca6350e80dcba9a865a2a-357de4a9e67913e6713f39eab2201714-1629041964-1629031164
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://www.theindependentbd.com/assets/news_images/444453.jpg",INDEPENDENT TV
+http://bdiptv.net:8080/IndependentTV/tracks-v1a1/mono.m3u8?token=b9c7af5f632fd506bdbb9877d199ab3bd988b2e8-581c380c43930557bed3526be2dd76f9-1629044670-1629033870
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png",Nagorik TV
+http://bdiptv.net:8080/NagorikTV/tracks-v1a1/mono.m3u8?token=05742ad7287da6adec01420cfc502fdb0848a7d7-1bdcccde704456429d5d8e64ffd55acb-1629044887-1629034087
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg",Mohona TV
+http://bdiptv.net:8080/MohonaTV/tracks-v1a1/mono.m3u8?token=9350baa9d7b374db4c32aa61e45753de50541928-8d010c005383ba06b2fae89dbf4f5fdd-1629044979-1629034179
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://bdyellowpages.net/upload/4230290_logo_for_news_12741678,192x192,r-1.jpg",MY TV
+http://bdiptv.net:8080/MyTV/tracks-v1a1/mono.m3u8?token=4fd6551183f4b0d022844784752ae2dbd441a0e4-d182156e1356c9e29dbc6b022331bbcc-1629045183-1629034383
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://biz-file.com/c/2006/561580.jpg",NEWS 24
+http://bdiptv.net:8080/News24/tracks-v1a1/mono.m3u8?token=bab5c5706d2d62c69c5d0a1dad975a24d0385e13-471dc70674c5358527acd8841adb47e3-1629045260-1629034460
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png",NTV
+http://bdiptv.net:8080/NTV/tracks-v1a1/mono.m3u8?token=d63063febcd067f9a498ebc61811254619be2a72-59d39813529cae78f51470b09c54db90-1629045410-1629034610
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://www.rtvonline.com/templates/web-v1/images/logo_new1.png",RTV
+http://bdiptv.net:8080/RTV/tracks-v1a1/mono.m3u8?token=7b9251ce11a7cb32eef89a989146dbed6d782b57-7260c4a586bb5a6f09c495b4c7273d09-1629045491-1629034691
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-192x192.cbb0d96.png",SOMOY TV
+http://bdiptv.net:8080/SomoyTv/tracks-v1a1/mono.m3u8?token=47f69bacd56361e2f60629f74abbc8a6062779e5-0da3ba0722a58aedb68d23bffae20f50-1629045575-1629034775
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://gaanbangla.tv/img/logo.png",GAN BANGLA TV
+http://bdiptv.net:8080/GaanBangla/tracks-v1a1/mono.m3u8?token=aa56b1da0f052c67ac4597a26c8bfed5f303f91c-b4781292bf4f6843410374ccdaa58c9c-1629045647-1629034847
+#EXTINF:0 tvg-language="Bangla" tvg-logo="",SA TV
+http://bdiptv.net:8080/SATV/tracks-v1a1/mono.m3u8?token=58d23a574a2011ac401e7aa7358dae555aa8f32c-19feb653a9123ea06909ebcfd86b8f11-1629049280-1629038480
+#EXTINF:0 tvg-language="Bangla" tvg-logo="",T Sports
+http://bdiptv.net:8080/TSportsSD/tracks-v1a1/mono.m3u8?token=c22746c538ef9b4cc7ab66dc253f2e8f4b31c9e7-d5b543f5c1ac478191b0a0fa94301d1e-1629049319-1629038519
+#EXTINF:0 tvg-language="Bangla" tvg-logo="",DHOOM TV
+http://bdiptv.net:8080/Dhoom/tracks-v1a1/mono.m3u8?token=c9d2debc317b68769fc5b1c17e77afc590867bcc-4cac908307d72642c80277a566b0530c-1629049346-1629038546
+#EXTINF:0 tvg-language="Bangla" tvg-logo="",Ruposhi Bangla
+http://bdiptv.net:8080/RuposhiBangla/tracks-v1a1/mono.m3u8?token=00eb9edf787c82d476ffceff47f163fea07f6311-5499a22a1082f742ab2b2f267646b0d0-1629049908-1629039108
+#EXTINF:0 tvg-language="Bangla" tvg-logo="",Sangeet Bangla
+http://bdiptv.net:8080/SangeetBangla/tracks-v1a1/mono.m3u8?token=86cb70d9b8b5470888b74e922eb358686fa74d22-8369d0bbaa3b8a48b44b300511e9aaf0-1629049396-1629038596
+#EXTINF:0 tvg-language="Bangla" tvg-logo="",Colors Bangla
+http://bdiptv.net:8080/ColorsBanglaHD/tracks-v1a1/mono.m3u8?token=fbcfb6f380ce23677317a266720463af22f8db69-4df85e161a34a5796b04477dda80f12b-1629049433-1629038633
+#EXTINF:0 tvg-language="Bangla" tvg-logo="",Nick
+http://bdiptv.net:8080/Nick/tracks-v1a1/mono.m3u8?token=94fb4976f07eeaf40a670862bb16e703b9c91e4e-e80437f9ac785fb7b91d62fc97b01ae5-1629049467-1629038667
+#EXTINF:0 tvg-language="Bangla" tvg-logo="",9XM
+http://bdiptv.net:8080/9XM/tracks-v1a1/mono.m3u8?token=5f1df49454981e36b5211be3b79dc6a2b3d2a662-284e603cc396c4b404786fdc7937be82-1629049502-1629038702
